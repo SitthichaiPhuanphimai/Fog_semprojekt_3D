@@ -1,2 +1,3 @@
-# JavaCSG-intro
-Intro to framework created by Tobias Grundtvig @tgrundtvig
+3D Modelling for Fog_SemProjekt
+
+Using framework created by Tobias Grundtvig @tgrundtvig
